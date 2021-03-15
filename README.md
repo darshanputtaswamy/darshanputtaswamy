@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshanputtaswamy
 - 👀 I’m interested in Mathematics, Machine Learning, Computer graphics, Softwares, Coding, Compitative Programmming ... 
 - 🌱 I’m currently learning flutter, firebase, firestore
-- 💞️ I’m looking to collaborate on anything that revolves ML, CG, Mathematics 
+- 💞️ I’m looking to collaborate on anything that involves ML, CG, Mathematics 
 - 📫 How to reach me darshanputtaswamy@gmail.com
 
 <!---
